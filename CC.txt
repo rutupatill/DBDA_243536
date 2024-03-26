@@ -1,0 +1,12 @@
+Cloud computing is nothing but a concept in which the service can be accessible to anywhere through internet
+There are 3 types of cloud Public, Private, Hybrid
+Cloud architecture:
+1.client infrastructure
+2.internet
+3.application
+4.service
+5.runtime
+6.storage
+7.infrastructure
+8.management
+9.security
